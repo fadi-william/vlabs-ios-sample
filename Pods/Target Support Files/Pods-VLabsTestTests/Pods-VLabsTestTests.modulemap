@@ -1,0 +1,6 @@
+framework module Pods_VLabsTestTests {
+  umbrella header "Pods-VLabsTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
