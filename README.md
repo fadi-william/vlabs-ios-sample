@@ -72,7 +72,7 @@ One of the common tasks involved in implementing iOS applications is to perform 
 
 So, I hope that I was able to present the libraries in a concise and in an appropriate way. I encourage you to check the sample app to see an example of how some of these libraries work together. For more information, I suggest that you check the libraries' official documentation that I provided here.
 
-Note: I believe that this is not the most appropiate architecture to build iOS applications. So, I will be updating this application to use an MVVM design pattern in the upcoming days.
+Note: I believe that this is not the most appropiate architecture to build iOS applications. So, using an MVVM design pattern will be more appropriate.
 
 ## LICENSE
 
