@@ -14,7 +14,7 @@ The libraries can be categorized into three sections. First, the libraries that 
 
 #### RxCocoa
 
-RxCocoa is part of RxSwift. It provides a reactive API extension to the most of the user interface components of the Cocoa API.
+RxCocoa is part of RxSwift. It provides a reactive API extensions to the user interface components of the Cocoa API.
 
 #### RxDataSources
 
@@ -32,7 +32,7 @@ One of the common tasks involved in implementing iOS applications is to perform 
 
 #### Moya-ObjectMapper
 
-[Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper) is used to serialize your Moya's API JSON responses to actual objects. So, you won't need to serialize your object from a JSON dictionary by hand.
+[Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper) is used to serialize your Moya's API JSON responses to actual objects. So, you won't need to serialize your object from a JSON dictionary.
 
 ### Form Implementation
 
@@ -60,7 +60,7 @@ One of the common tasks involved in implementing iOS applications is to perform 
 
 ### Realm Mobile Database
 
-[Realm mobile database](https://realm.io/products/realm-mobile-database/) is a very fast local database and it is an alternative to SQLite and CoreData.
+[Realm mobile database](https://realm.io/products/realm-mobile-database/) is a very fast local database and it is an alternative to SQLite and Core Data.
 
 ### Theming
 
@@ -72,7 +72,7 @@ One of the common tasks involved in implementing iOS applications is to perform 
 
 So, I hope that I was able to present the libraries in a concise and in an appropriate way. I encourage you to check the sample app to see an example of how some of these libraries work together. For more information, I suggest that you check the libraries' official documentation that I provided here.
 
-Note: I believe that this is not the most appropiate architecture to build iOS applications. So, using an MVVM design pattern will be more appropriate.
+Note: I believe that this is not the most appropriate architecture to build iOS applications. So, using an MVVM design pattern will be more appropriate.
 
 ## LICENSE
 
