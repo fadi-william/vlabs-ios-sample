@@ -4,7 +4,7 @@ The goal of this project is to develop a sample iOS application using swift's mo
 
 ## Libraries
 
-The libraries can be categorized into three sections. First, the libraries that are purely related to [ReactiveX](http://reactivex.io/) ; you may want to check the link for more information about the API and its [operators](http://reactivex.io/documentation/operators.html) that handle asynchronus data streams through functional programming. Then, the libraries used for performing asynchronus http requests, downloading and caching, managing a local data store and building forms. Finally, the libraries related to custom layout implementation.
+The libraries can be categorized into three sections. First, the libraries that are purely related to [ReactiveX](http://reactivex.io/) ; you may want to check the link for more information about the API and its [operators](http://reactivex.io/documentation/operators.html) that handle asynchronous data streams through functional programming. Then, the libraries used for performing asynchronous http requests, downloading and caching, managing a local data store and building forms. Finally, the libraries related to custom layout implementation.
 
 ### ReactiveX
 
